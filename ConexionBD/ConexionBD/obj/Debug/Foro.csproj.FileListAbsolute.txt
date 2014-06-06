@@ -1,0 +1,60 @@
+C:\Users\Marcelo Retamal\Desktop\BD_tarea2\ConexionBD\ConexionBD\bin\ConexionBD.dll
+C:\Users\Marcelo Retamal\Desktop\BD_tarea2\ConexionBD\ConexionBD\bin\ConexionBD.pdb
+C:\Users\Marcelo Retamal\Desktop\BD_tarea2\ConexionBD\ConexionBD\bin\Microsoft.Data.Edm.xml
+C:\Users\Marcelo Retamal\Desktop\BD_tarea2\ConexionBD\ConexionBD\bin\Microsoft.Data.OData.xml
+C:\Users\Marcelo Retamal\Desktop\BD_tarea2\ConexionBD\ConexionBD\bin\Microsoft.Data.Services.xml
+C:\Users\Marcelo Retamal\Desktop\BD_tarea2\ConexionBD\ConexionBD\bin\Microsoft.Data.Services.Client.xml
+C:\Users\Marcelo Retamal\Desktop\BD_tarea2\ConexionBD\ConexionBD\bin\System.Spatial.xml
+C:\Users\Marcelo Retamal\Desktop\BD_tarea2\ConexionBD\ConexionBD\obj\Debug\Foro.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo Retamal\Desktop\BD_tarea2\ConexionBD\ConexionBD\obj\Debug\ConexionBD.dll
+C:\Users\Marcelo Retamal\Desktop\BD_tarea2\ConexionBD\ConexionBD\obj\Debug\ConexionBD.pdb
+C:\Users\Jeremy\Desktop\tarea2 marcelo\Tarea2\ConexionBD\ConexionBD\bin\ConexionBD.dll
+C:\Users\Jeremy\Desktop\tarea2 marcelo\Tarea2\ConexionBD\ConexionBD\bin\ConexionBD.pdb
+C:\Users\Jeremy\Desktop\tarea2 marcelo\Tarea2\ConexionBD\ConexionBD\bin\Microsoft.Data.Edm.xml
+C:\Users\Jeremy\Desktop\tarea2 marcelo\Tarea2\ConexionBD\ConexionBD\bin\Microsoft.Data.OData.xml
+C:\Users\Jeremy\Desktop\tarea2 marcelo\Tarea2\ConexionBD\ConexionBD\bin\Microsoft.Data.Services.xml
+C:\Users\Jeremy\Desktop\tarea2 marcelo\Tarea2\ConexionBD\ConexionBD\bin\Microsoft.Data.Services.Client.xml
+C:\Users\Jeremy\Desktop\tarea2 marcelo\Tarea2\ConexionBD\ConexionBD\bin\System.Spatial.xml
+C:\Users\Jeremy\Desktop\tarea2 marcelo\Tarea2\ConexionBD\ConexionBD\obj\Debug\Foro.csprojResolveAssemblyReference.cache
+C:\Users\Jeremy\Desktop\tarea2 marcelo\Tarea2\ConexionBD\ConexionBD\obj\Debug\ConexionBD.dll
+C:\Users\Jeremy\Desktop\tarea2 marcelo\Tarea2\ConexionBD\ConexionBD\obj\Debug\ConexionBD.pdb
+C:\Users\Jeremy\Desktop\tarea2 marcelo\original\ConexionBD\ConexionBD\bin\ConexionBD.dll
+C:\Users\Jeremy\Desktop\tarea2 marcelo\original\ConexionBD\ConexionBD\bin\ConexionBD.pdb
+C:\Users\Jeremy\Desktop\tarea2 marcelo\original\ConexionBD\ConexionBD\bin\Microsoft.Data.Edm.xml
+C:\Users\Jeremy\Desktop\tarea2 marcelo\original\ConexionBD\ConexionBD\bin\Microsoft.Data.OData.xml
+C:\Users\Jeremy\Desktop\tarea2 marcelo\original\ConexionBD\ConexionBD\bin\Microsoft.Data.Services.xml
+C:\Users\Jeremy\Desktop\tarea2 marcelo\original\ConexionBD\ConexionBD\bin\Microsoft.Data.Services.Client.xml
+C:\Users\Jeremy\Desktop\tarea2 marcelo\original\ConexionBD\ConexionBD\bin\System.Spatial.xml
+C:\Users\Jeremy\Desktop\tarea2 marcelo\original\ConexionBD\ConexionBD\obj\Debug\Foro.csprojResolveAssemblyReference.cache
+C:\Users\Jeremy\Desktop\tarea2 marcelo\original\ConexionBD\ConexionBD\obj\Debug\ConexionBD.dll
+C:\Users\Jeremy\Desktop\tarea2 marcelo\original\ConexionBD\ConexionBD\obj\Debug\ConexionBD.pdb
+C:\Users\Jeremy\Desktop\tarea2 marcelo\Tarea 2\ConexionBD\ConexionBD\bin\ConexionBD.dll
+C:\Users\Jeremy\Desktop\tarea2 marcelo\Tarea 2\ConexionBD\ConexionBD\bin\ConexionBD.pdb
+C:\Users\Jeremy\Desktop\tarea2 marcelo\Tarea 2\ConexionBD\ConexionBD\bin\Microsoft.Data.Edm.xml
+C:\Users\Jeremy\Desktop\tarea2 marcelo\Tarea 2\ConexionBD\ConexionBD\bin\Microsoft.Data.OData.xml
+C:\Users\Jeremy\Desktop\tarea2 marcelo\Tarea 2\ConexionBD\ConexionBD\bin\Microsoft.Data.Services.xml
+C:\Users\Jeremy\Desktop\tarea2 marcelo\Tarea 2\ConexionBD\ConexionBD\bin\Microsoft.Data.Services.Client.xml
+C:\Users\Jeremy\Desktop\tarea2 marcelo\Tarea 2\ConexionBD\ConexionBD\bin\System.Spatial.xml
+C:\Users\Jeremy\Desktop\tarea2 marcelo\Tarea 2\ConexionBD\ConexionBD\obj\Debug\Foro.csprojResolveAssemblyReference.cache
+C:\Users\Jeremy\Desktop\tarea2 marcelo\Tarea 2\ConexionBD\ConexionBD\obj\Debug\ConexionBD.dll
+C:\Users\Jeremy\Desktop\tarea2 marcelo\Tarea 2\ConexionBD\ConexionBD\obj\Debug\ConexionBD.pdb
+C:\Users\Marcelo Retamal\Desktop\ConexionBD\ConexionBD\bin\ConexionBD.dll
+C:\Users\Marcelo Retamal\Desktop\ConexionBD\ConexionBD\bin\ConexionBD.pdb
+C:\Users\Marcelo Retamal\Desktop\ConexionBD\ConexionBD\bin\Microsoft.Data.Edm.xml
+C:\Users\Marcelo Retamal\Desktop\ConexionBD\ConexionBD\bin\Microsoft.Data.OData.xml
+C:\Users\Marcelo Retamal\Desktop\ConexionBD\ConexionBD\bin\Microsoft.Data.Services.xml
+C:\Users\Marcelo Retamal\Desktop\ConexionBD\ConexionBD\bin\Microsoft.Data.Services.Client.xml
+C:\Users\Marcelo Retamal\Desktop\ConexionBD\ConexionBD\bin\System.Spatial.xml
+C:\Users\Marcelo Retamal\Desktop\ConexionBD\ConexionBD\obj\Debug\Foro.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo Retamal\Desktop\ConexionBD\ConexionBD\obj\Debug\ConexionBD.dll
+C:\Users\Marcelo Retamal\Desktop\ConexionBD\ConexionBD\obj\Debug\ConexionBD.pdb
+D:\Descargas\ConexionBD\ConexionBD\bin\ConexionBD.dll
+D:\Descargas\ConexionBD\ConexionBD\bin\ConexionBD.pdb
+D:\Descargas\ConexionBD\ConexionBD\bin\Microsoft.Data.Edm.xml
+D:\Descargas\ConexionBD\ConexionBD\bin\Microsoft.Data.OData.xml
+D:\Descargas\ConexionBD\ConexionBD\bin\Microsoft.Data.Services.xml
+D:\Descargas\ConexionBD\ConexionBD\bin\Microsoft.Data.Services.Client.xml
+D:\Descargas\ConexionBD\ConexionBD\bin\System.Spatial.xml
+D:\Descargas\ConexionBD\ConexionBD\obj\Debug\Foro.csprojResolveAssemblyReference.cache
+D:\Descargas\ConexionBD\ConexionBD\obj\Debug\ConexionBD.dll
+D:\Descargas\ConexionBD\ConexionBD\obj\Debug\ConexionBD.pdb

@@ -1,0 +1,142 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="master.Master.cs" Inherits="Foro.Site1" %>
+
+<!DOCTYPE html>
+
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<title>Foro USM</title>
+<link rel="shortcut icon" type="image/x-icon" href="style/images/favicon.png" />
+<link rel="stylesheet" type="text/css" href="style.css" media="all" />
+<link href='http://fonts.googleapis.com/css?family=Amaranth' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="style/css/ie7.css" media="all" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" type="text/css" href="style/css/ie8.css" media="all" />
+<![endif]-->
+<!--[if IE 9]>
+<link rel="stylesheet" type="text/css" href="style/css/ie9.css" media="all" />
+<![endif]-->
+<script type="text/javascript" src="style/js/jquery-1.6.4.min.js"></script>
+<script type="text/javascript" src="style/js/ddsmoothmenu.js"></script>
+<script type="text/javascript" src="style/js/jquery.jcarousel.js"></script>
+<script type="text/javascript" src="style/js/jquery.prettyPhoto.js"></script>
+<script type="text/javascript" src="style/js/carousel.js"></script>
+<script type="text/javascript" src="style/js/jquery.flexslider-min.js"></script>
+<script type="text/javascript" src="style/js/jquery.masonry.min.js"></script>
+<script type="text/javascript" src="style/js/jquery.slickforms.js"></script>
+    <style type="text/css">
+        .auto-style1
+        {
+            color: #FFFFFF;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+<!-- Begin Wrapper -->
+<div id="wrapper">
+	<!-- Begin Sidebar -->
+	<div id="sidebar">
+		 <div id="logo" class="auto-style1">
+             <h1><strong>Foro Usm</strong></h1>
+         </div>
+	<asp:ContentPlaceHolder ID="ContentPlaceHolder4" runat="server">
+        <!-- Begin Menu -->
+    <div id="menu" class="menu-v">
+      <ul>
+        <li><a href="inicio.aspx" class="active">Home</a>
+        	
+        </li>
+        
+         <li><asp:LinkButton ID="LinkButton1" runat="server" OnClientClick="irPerfil" OnClick="ir_Perfil"  >Perfil</asp:LinkButton>
+               <ul>
+                    <li><asp:LinkButton ID="LinkButton2" runat="server" OnClick="ir_Perfil" >Mi Perfil</asp:LinkButton></li>
+                    <li><a href="Perfil.aspx">Editar mi perfil</a></li>
+                </ul>
+        </li>
+        <li><a href="buttons-boxes-images.html">Featuress</a>
+        	<ul>
+        		<li><a href="buttons-boxes-images.html">Buttons Boxes Imagess</a></li>
+        		<li><a href="tabs-toggle-table.html">Tabs Toggle Tabless</a></li>
+        		<li><a href="testimonials.html">Testimonialss</a></li>
+        		<li><a href="typography.html">Typographyy</a></li>
+        		<li><a href="service-icons.html">Service Iconss</a></li>
+        	</ul>
+        </li>
+        <li><a href="registro.aspx">Registro</a></li>
+      </ul>
+    </div>
+    <!-- End Menu -->	 
+	</asp:ContentPlaceHolder>
+   
+    
+	     <br />
+   
+    
+	     <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+         </asp:ContentPlaceHolder>
+   
+    
+	</div>
+	<!-- End Sidebar -->
+	
+	<!-- Begin Content -->
+	<div id="content">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder3" runat="server">
+            <h1 class="title">Bienvenidos</h1>
+        </asp:ContentPlaceHolder>	
+	<div class="line"></div>
+	<div class="intro">Les damos cordiales saludos a todos los participantes del foro.</div>
+	
+	<!-- Begin Slider -->
+	<div id="slider">
+
+		<asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            <p>
+                <br />
+            </p>
+        </asp:ContentPlaceHolder>
+        <asp:PlaceHolder ID="PlaceHolder1" runat="server"></asp:PlaceHolder>
+
+		<br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+
+	</div>
+    
+    <!-- Begin Latest Works -->
+    <!-- End Footer -->
+    
+    
+	</div>
+	<!-- End Content -->
+	
+</div>
+<!-- End Wrapper -->
+<div class="clear"></div>
+<script type="text/javascript" src="style/js/scripts.js"></script>
+<!--[if !IE]> -->
+<script type="text/javascript" src="style/js/jquery.corner.js"></script>
+<!-- <![endif]-->
+</body>
+</html>
+</form>

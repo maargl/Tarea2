@@ -1,0 +1,10 @@
+C:\Users\Marcelo Retamal\Desktop\BD_tarea2\ConexionBD\ConexionBD\bin\ConexionBD.dll
+C:\Users\Marcelo Retamal\Desktop\BD_tarea2\ConexionBD\ConexionBD\bin\ConexionBD.pdb
+C:\Users\Marcelo Retamal\Desktop\BD_tarea2\ConexionBD\ConexionBD\obj\Debug\ConexionBD.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo Retamal\Desktop\BD_tarea2\ConexionBD\ConexionBD\obj\Debug\ConexionBD.dll
+C:\Users\Marcelo Retamal\Desktop\BD_tarea2\ConexionBD\ConexionBD\obj\Debug\ConexionBD.pdb
+C:\Users\Marcelo Retamal\Desktop\BD_tarea2\ConexionBD\ConexionBD\bin\Microsoft.Data.Edm.xml
+C:\Users\Marcelo Retamal\Desktop\BD_tarea2\ConexionBD\ConexionBD\bin\Microsoft.Data.OData.xml
+C:\Users\Marcelo Retamal\Desktop\BD_tarea2\ConexionBD\ConexionBD\bin\Microsoft.Data.Services.xml
+C:\Users\Marcelo Retamal\Desktop\BD_tarea2\ConexionBD\ConexionBD\bin\Microsoft.Data.Services.Client.xml
+C:\Users\Marcelo Retamal\Desktop\BD_tarea2\ConexionBD\ConexionBD\bin\System.Spatial.xml
